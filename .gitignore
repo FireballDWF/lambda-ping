@@ -1,2 +1,5 @@
 # Serverless directories
 .serverless
+.terraform
+terraform.*
+*.zip
